@@ -1,0 +1,16 @@
+PODS:
+  - SSSpinnerButton (3.2.1)
+
+DEPENDENCIES:
+  - SSSpinnerButton
+
+SPEC REPOS:
+  trunk:
+    - SSSpinnerButton
+
+SPEC CHECKSUMS:
+  SSSpinnerButton: 2cfbe0cfc555d850ebdd3929e53f19013577a25d
+
+PODFILE CHECKSUM: fc996b2398613817820b0bf5fb0bba79678702c1
+
+COCOAPODS: 1.16.2

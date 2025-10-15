@@ -1,0 +1,6 @@
+framework module Pods_SpinnnerButton {
+  umbrella header "Pods-SpinnnerButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
